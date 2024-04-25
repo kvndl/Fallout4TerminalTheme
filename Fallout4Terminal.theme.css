@@ -42,4 +42,5 @@
   --title-image-color: var(--highlight); /* The color used for the title image */
   --title-image-width: 240px; /* The width of the title image */
   --title-image-height: 14px; /* The height of the title image */
+  --text-color: #d58f36;
 }
